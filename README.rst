@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/Organice/django-organice.png?label=ready&title=Ready 
+ :target: https://waffle.io/Organice/django-organice
+ :alt: 'Stories in Ready'
 ================================
 django Organice |latest-version|
 ================================
